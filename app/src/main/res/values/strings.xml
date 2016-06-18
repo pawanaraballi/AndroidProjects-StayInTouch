@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">StayInTouch</string>
+    <!-- Sign Up Strings -->
+    <string name="stayintouchsignup">Stay In Touch (Sign up)</string>
+
+    <string name="userfirstlastname">User First Last Name</string>
+    <string name="email">Email</string>
+    <string name="phoneno">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <!--Sign In Strings-->
+    <string name="stayintouchlogin">Stay In Touch (Login)</string>
+
+    <string name="login">Login</string>
+    <string name="createnewuser">Create New User</string>
+    <string name="title_activity_login1">Stay In Touch (Login)</string>
+
+    <!-- Conversation Strings-->
+    <string name="editprofile">Edit Profile</string>
+    <string name="logout">Logout</string>
+
+    <!-- Detail Strings-->
+    <string name="update">Update</string>
+
+    <!--View Message Strings-->
+    <string name="entermessage">Enter Message</string>
+    <string name="viewcontact">View Contact</string>
+    <string name="callcontact">Call Contact</string>
+
+    <string name="flname">Name</string>
+</resources>

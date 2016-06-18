@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_viewcontact"
+        android:title="@string/viewcontact"
+        android:orderInCategory="100"/>
+
+    <item android:id="@+id/action_callcontact"
+        android:title="@string/callcontact"
+        android:orderInCategory="100" />
+</menu>
